@@ -1,0 +1,37 @@
+body{
+  background-image: url('http://tophdimgs.com/data_images/wallpapers/4/338221-background-image.jpg');
+}
+.main {
+  position: relative;
+  top: 125px;
+  width: 350px;
+  margin: auto;
+  line-height: 1.5;
+  background-color: azure;
+  padding: 50px;
+  border-radius: 25px;
+  border: 3px solid gray;
+}
+
+#quoteDisplay {
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size:1.95em;
+  font-weight:400;
+  font-family: 'Clicker Script', cursive;
+}
+
+#authorDisplay {
+  font-family: Arial, sans-serif;
+  font-weight: light;
+  margin-bottom: 40px;
+}
+
+#btnNext {
+  background-color: black;
+  color:white;
+}
+
+button:hover {
+  border: 2px solid gray;
+}
